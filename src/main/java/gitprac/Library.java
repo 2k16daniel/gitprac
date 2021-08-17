@@ -5,8 +5,8 @@ package gitprac;
 
 public class Library {
     public boolean someLibraryMethod() {
-        System.out.println("lol");
+        System.out.println("lossl");
         return true;
     }
-    //new comment 1
+    //new comment 11
 }
